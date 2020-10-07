@@ -1,6 +1,6 @@
 # Audio-Sample-files
-Esse repositório foi criado para simular facilmente uma URL para streamming dos áudios a serem consumidos no Sparkle.
-A URL a ser consumida deve estar no seguinte formato:
+This repo was created to make easier simulate audio consuming through http.
+The URL should be in these follow format:
 
 https://github.com/rafaelreis-hotmart/Audio-Sample-files/raw/master/{filename.ext}
 
