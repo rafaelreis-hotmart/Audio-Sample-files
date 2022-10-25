@@ -8,6 +8,10 @@ Sample using file `sample.mp3`:
 
 https://github.com/rafaelreis-hotmart/Audio-Sample-files/raw/master/sample.mp3
 
+Sample using file `sample.mp4`
+
+https://github.com/rafaelreis-hotmart/Audio-Sample-files/blob/master/sample.mp4
+
 
 ## Another Files on CDN
 
